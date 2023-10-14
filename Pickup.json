@@ -1,8 +1,9 @@
 {
 	"pickup": {
-		"name": "",
-		"attack": 0,
-		"hp": 0,
-		"probably": 0
+		"description": "gtest"
+		"name": "Gtest1",
+		"attack": 100000,
+		"hp": 100000,
+		"probably": 100
 	}
 }
