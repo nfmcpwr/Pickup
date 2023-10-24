@@ -1,9 +1,9 @@
 {
 	"pickup": {
-		"description": "Begginers offer",
-		"name": "Strong Begginer",
-		"attack": 1000,
+		"description": "Attacker",
+		"name": "Super Attacker",
+		"attack": 15000,
 		"hp": 1000,
-		"probably": 50
+		"probably": 5
 	}
 }
